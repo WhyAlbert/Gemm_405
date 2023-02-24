@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../DataGenerate_xsim.ip_user_files/ipstatic/hdl" \
+"../../../../DataGenerate_xsim.gen/sources_1/ip/conv11DataCvt/sim/conv11DataCvt.v" \
+"../../../../DataGenerate_xsim.srcs/sources_1/imports/job_1/DataGenerate.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

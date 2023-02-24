@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: commons-io:commons-io:2.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/mirrors.huaweicloud.com/repository/maven/commons-io/commons-io/2.4/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

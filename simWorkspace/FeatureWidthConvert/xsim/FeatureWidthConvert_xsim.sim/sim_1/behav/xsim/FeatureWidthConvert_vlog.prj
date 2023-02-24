@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../FeatureWidthConvert_xsim.ip_user_files/ipstatic/hdl" \
+"../../../../FeatureWidthConvert_xsim.gen/sources_1/ip/conv11DataCvt/sim/conv11DataCvt.v" \
+"../../../../FeatureWidthConvert_xsim.srcs/sources_1/imports/job_1/FeatureWidthConvert.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

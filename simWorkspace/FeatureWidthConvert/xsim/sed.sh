@@ -1,0 +1,1 @@
+sed '/^call xelab/ s/$/ -dll/' -i elaborate.bat

@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "axis_infrastructure_v1_1_0" -L "axis_register_slice_v1_1_26" -L "axis_dwidth_converter_v1_1_25" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "DataGenerate_behav" "xil_defaultlib.DataGenerate" "xil_defaultlib.glbl" -log "elaborate.log" -dll 

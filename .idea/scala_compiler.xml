@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Gemm_405">
+      <plugins>
+        <plugin path="C:\Users\Why\AppData\Local\Coursier\Cache\v1\https\mirrors.huaweicloud.com\repository\maven\com\github\spinalhdl\spinalhdl-idsl-plugin_2.11\1.7.3\spinalhdl-idsl-plugin_2.11-1.7.3.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
